@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+AdminBSB - Material Design
+=======================
+[![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
+![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)
 
-You can use the [editor on GitHub](https://github.com/IndraKusuma04/quicklaundry/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**AdminBSB - Material Design is a fully responsive and free admin template.** It was developed with [Bootstrap 3.x Framework](http://getbootstrap.com) and [Google Material Design](https://material.google.com) of powers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's really easy to customize and usage. You can use for from 320px to large resolution pixels of new generation screens and mobile devices. (**Fully Responsive Material Design**)
 
-### Markdown
+Looking for Premium Templates?
+----------------
+**If you need more features please visit portfolio of mine which page link is [https://themeforest.net/user/gurayyarar/portfolio](http://bit.ly/2oPFpmQ)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demo
+----------------
+You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
 
-```markdown
-Syntax highlighted code block
+![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
 
-# Header 1
-## Header 2
-### Header 3
+Installation
+----------------
+You can choose one from multiple ways for installation.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**GitHub**
+- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
+- Clone to your machine
+```
+git clone https://github.com/gurayyarar/AdminBSBMaterialDesign.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**npm**
+```
+npm install adminbsb-materialdesign
+```
 
-### Jekyll Themes
+**bower**
+```
+bower install adminbsb-materialdesign
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IndraKusuma04/quicklaundry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Documentation
+----------
+Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
 
-### Support or Contact
+Browser Support
+----------
+- IE 10 +
+- Microsoft Edge (Latest)
+- Mozilla Firefox (Latest)
+- Google Chrome (Latest)
+- Opera (Latest)
+- Safari (Latest)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Change Logs
+----------
+You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
+
+
+FAQ
+===
+**Can I use this template for personal or commercial websites/web projects?**  
+Sure, you can use both of personal and commercial websites/web projects.
+
+**Is the attribution link required?**  
+No, not required. (Though very much appreciated)
+
+License
+----------
+**AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Donations
+----------
+Donations are **greatly appreciated!**
+
+**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
